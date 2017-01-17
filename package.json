@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ijaureguialzo/egibidebot.git"
+    "url": "git+https://github.com/ixonelaguardia/camalebot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ijaureguialzo/egibidebot/issues"
+    "url": "https://github.com/ixonelaguardia/camalebot/issues"
   },
-  "homepage": "https://github.com/ijaureguialzo/egibidebot#readme",
+  "homepage": "https://github.com/ixonelaguardia/camalebot#readme",
   "dependencies": {
     "express": "^4.14.0"
   }
