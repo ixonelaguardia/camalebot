@@ -73,7 +73,7 @@ app.use(express.static(__dirname + "/public"));
     // Crear el objeto con la respuesta
     var respuesta = [
         {
-          text: "Nos separan unos " + distancia + "km...",
+          text: "Nos separan unos " + distancia + "km..."
         }
     ];
 
